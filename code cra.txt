@@ -1,0 +1,327 @@
+[
+    {
+        "cve": "SNYK-JAVA-ORGYAML-537645",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHEKAFKA-1540737",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHECOMMONS-30008",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-JUNIT-1017047",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSIO-1277109",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLEGUAVA-32236",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLEGUAVA-1015415",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMFASTERXMLJACKSONDATAFORMAT-30242",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGYAML-537645",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHEKAFKA-1540737",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-JUNIT-1017047",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHECOMMONS-30008",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMFASTERXMLJACKSONDATAFORMAT-30242",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGYAML-537645",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32369",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32368",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32367",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32366",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32365",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32364",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32363",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32361",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-32340",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-173771",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-1296075",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGBOUNCYCASTLE-1035561",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHEKAFKA-1540737",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-JUNIT-1017047",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHECOMMONS-30008",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMSQUAREUPRETROFIT2-72720",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMFASTERXMLJACKSONDATAFORMAT-30242",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGYAML-537645",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHEKAFKA-1540737",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-JUNIT-1017047",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHECOMMONS-30008",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMSQUAREUPRETROFIT2-72720",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMFASTERXMLJACKSONDATAFORMAT-30242",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMSQUAREUPRETROFIT2-72720",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMSQUAREUPRETROFIT2-72720",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGYAML-537645",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHEKAFKA-1540737",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-ORGAPACHECOMMONS-30008",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-JUNIT-1017047",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSIO-1277109",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMMONSCODEC-561518",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMSQUAREUPRETROFIT2-72720",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLECODEGSON-1730327",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLEGUAVA-32236",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMGOOGLEGUAVA-1015415",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    },
+    {
+        "cve": "SNYK-JAVA-COMFASTERXMLJACKSONDATAFORMAT-30242",
+        "alwaysOmit": true,
+        "comment": "https://github.ibm.com/bluemix-mobile-services/bmd-project-push/issues/11799"
+    }
+]
